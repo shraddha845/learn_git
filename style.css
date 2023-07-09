@@ -1,0 +1,26 @@
+body{
+	max-width: 1200px;
+    margin: auto;
+}
+
+.odd-div{
+	background: antiquewhite;
+    padding: 50px;
+    margin: 40px 0px;
+}
+
+.even-div{
+	background: #adeaea;
+    padding: 50px;
+    margin: 40px 0px;
+}
+
+p, li {
+    font-size: 18px;
+    font-family: sans-serif;
+    line-height: 1.8em;
+}
+
+h2 {
+    font-size: 30px;
+}
